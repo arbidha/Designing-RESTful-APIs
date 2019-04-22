@@ -6,8 +6,8 @@ import codecs
 sys.stdout = codecs.getwriter('utf8')(sys.stdout)
 sys.stderr = codecs.getwriter('utf8')(sys.stderr)
 
-foursquare_client_id = "V5IECCKPKE4WHFC4GMOHASD240DBY0ZVJICDKXJUDSHNEYU1"
-foursquare_client_secret = "W1YKHE514OBW1RA4LUUDFXSOY01MWL2UVHGM4MZX5LYGHNV1"
+foursquare_client_id = "your_client_id"
+foursquare_client_secret = "your_client_secret"
 foursquare_version = "20190421"
 
 
